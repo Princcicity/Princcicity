@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Princcicity
+- 👋 Hi, I’m @Princcicity_toast
 - 👀 I’m interested in kpop. 
 - 🌱 I’m currently learning nothing. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... 
+- 📫 How to reach me, I don't even know. 
 
 <!---
 Princcicity/Princcicity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
